@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
+## 🌱 Stats
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabm-git&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+  ![GandalFran's github stats](https://github-readme-stats.vercel.app/api?username=dabm-git&count_private=true)
+
